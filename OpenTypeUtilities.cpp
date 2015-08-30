@@ -27,6 +27,7 @@
 
 #include <string.h>
 #include <vector>
+#include <stddef.h>
 
 #ifndef _MSC_VER
 # include <stdint.h>
